@@ -1,0 +1,9 @@
+{
+	"name": "varshu-Datafactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29ae3536-ceb3-4f0b-880f-7ddc48b1ecd0",
+		"tenantId": "6711039e-c265-432c-b680-a3af66790e06"
+	}
+}
